@@ -1,5 +1,5 @@
 # JavaChattingApp
-Created a Chatting application using concepts of Java Programming language, like Java Swing, Java AWT, Socket Programming, Core Java
+Created a Chatting application using concepts of Java Programming language, like Java Swing, Java AWT, Socket Programming, Core Java. But In this Application, User can send message to the other user and can send reply back from that user side also
 
 Design of the Application
 
